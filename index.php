@@ -3,6 +3,7 @@
 <html>
 <head>
   <title>Ch 01 Exercises</title>
+  <meta charset='utf-8' />
   <link rel='stylesheet' href='./css/style.css' type='text/css' />
   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 </head>
